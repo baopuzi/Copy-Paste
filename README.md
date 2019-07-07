@@ -1,2 +1,2 @@
-# Copy-Paste
+# Copy & Paste
 那些记不住的代码在这……
